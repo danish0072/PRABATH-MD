@@ -1,13 +1,13 @@
 {
-  "name": "PRABATH-MD (2.1.1)",
+  "name": "DANISH-MD (2.1.1)",
   "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "logo": "https://telegra.ph/file/1963a82855b30eaa92d05.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "Danish-md"],
   "success_url": "/",
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "+923095771606",
       "required": true
     },  
 
